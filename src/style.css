@@ -1,8 +1,17 @@
 body {
-    background-color:#000000;
-color:#ffffff;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 a {
-   color:aliceblue; 
+    color: aliceblue;
 }
+
+#testid, .description.description {
+    color: blueviolet;
+}
+
+/* #testid{
+    color:green
+} */
+/* Id>class>element */
